@@ -1,4 +1,4 @@
-from fields.base_lab_field import BaseLabField
+from model.fields.base_lab_field import BaseLabField
 
 '''
 Клас поля тромбоцити
