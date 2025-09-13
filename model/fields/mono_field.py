@@ -1,7 +1,8 @@
 from model.fields.base_lab_field import BaseLabField
 
 '''
-Клас поля моноцити
+Абсолютний показник кількості моноцитів (MONO) - клітини,що регулюють Th-вісі
+Необхідний для розрахунку LMR 
 '''
 
 class MonoField(BaseLabField):

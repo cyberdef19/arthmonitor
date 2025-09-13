@@ -1,7 +1,9 @@
 from model.fields.base_lab_field import BaseLabField
 
 '''
-Клас поля нейтрофіли
+Абсолютний показник кількості нейтрофілів (NEU) - показник вродженої запальної
+відповіді.
+Використовується в розрахунку NLR 
 '''
 
 class NeuField(BaseLabField):
