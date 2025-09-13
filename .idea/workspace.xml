@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39eb2476-3694-4e3f-8089-91b875b37c1c" name="Changes" comment="Комміт резолвінг конфлікт">
-      <change afterPath="$PROJECT_DIR$/model/fields/esr_field.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/fields/hct_field.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/fields/hgb_field.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/fields/pdw_field.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/fields/wbc_field.py" afterDir="false" />
+    <list default="true" id="39eb2476-3694-4e3f-8089-91b875b37c1c" name="Changes" comment="Додано класи для полів: лімфоцити, нейтрофіли, тромбоцити, моноцити">
+      <change afterPath="$PROJECT_DIR$/model/fields/ddlmr_dt_field.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/fields/delta_lmr_field.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/fields/dlmr_dt_field.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/fields/integral_index_lmr_field.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/fields/norm_lmr_field.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,15 +118,7 @@
       <option name="project" value="LOCAL" />
       <updated>1757367039023</updated>
     </task>
-    <task id="LOCAL-00004" summary="Комміт резолвінг конфлікт">
-      <option name="closed" value="true" />
-      <created>1757798017514</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1757798017514</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,8 +136,7 @@
     <MESSAGE value="db_config.py та main.py" />
     <MESSAGE value="db_config.py додано конфігурацію підключення до orm" />
     <MESSAGE value="Додано класи для полів: лімфоцити, нейтрофіли, тромбоцити, моноцити" />
-    <MESSAGE value="Комміт резолвінг конфлікт" />
-    <option name="LAST_COMMIT_MESSAGE" value="Комміт резолвінг конфлікт" />
+    <option name="LAST_COMMIT_MESSAGE" value="Додано класи для полів: лімфоцити, нейтрофіли, тромбоцити, моноцити" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
