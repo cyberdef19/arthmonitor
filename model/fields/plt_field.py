@@ -1,7 +1,8 @@
 from model.fields.base_lab_field import BaseLabField
 
 '''
-Клас поля тромбоцити
+Тромбоцити (PLT) - важливий показник запальної активності.
+Впливає на розрахунок PLR і може свідчити про загострення хвороби
 '''
 
 class PLTField(BaseLabField):

@@ -1,7 +1,8 @@
 from base_lab_field import BaseLabField
 
 '''
-Клас поля лімфоцити з параметрами
+Абсолютний показник кількості лімфоцитів (LYM) - відображає активність адаптивного імунітету.
+Важливий в розрахунку LMR, NLR, PLR 
 '''
 
 class LymphField(BaseLabField):
